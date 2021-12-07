@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sidd456
+- 👋 Hi, I’m Siddhartha Roy
 - 👀 I’m interested in Email Development and Marketing
 - 🌱 I’m currently learning JavaScript
 - 📫 Reach me at sr.sroy@outlook.com
